@@ -1,4 +1,4 @@
-# AN-229 ElpisDuino R4
+# AN-225 EtherCATスレーブ評価基板
 
 ![商品画像]()
 
